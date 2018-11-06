@@ -38,6 +38,6 @@ This is the first sentence without 2 Spaces
 This is the Second sentence without 2 spaces in the first sentence
 
 ---
-**Bold**
+**Bold**  
 *Italic*
 ---
